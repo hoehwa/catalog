@@ -1,0 +1,2 @@
+# Value is generator function
+
