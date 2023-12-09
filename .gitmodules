@@ -1,9 +1,9 @@
 [submodule "background"]
-	path = background
+	path = submodule/background
 	url = https://github.com/hwansul/background
 [submodule "fruit"]
-	path = fruit
+	path = submodule/fruit
 	url = https://github.com/mindulle/fruit
 [submodule "Product"]
-	path = Product
+	path = submodule/Product
 	url = https://github.com/mindulle/Product
